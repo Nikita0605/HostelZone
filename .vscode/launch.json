@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        
+
+
+        {
+            "name": "Flutter (lib\\studentlogin.flutter)",
+            "type": "flutter",
+            "request": "launch",
+            "cwd": "hostel_app",
+            "program": "lib\\studentlogin.flutter"
+        }
+    ]
+}

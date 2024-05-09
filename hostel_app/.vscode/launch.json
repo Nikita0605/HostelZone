@@ -1,0 +1,17 @@
+{
+    "configurations": [
+
+        {
+            "name": "Flutter (lib\\studentlogin.dart)",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib\\studentlogin.dart",
+            "args": [
+                "--no-sound-null-safety",
+                "--enable-experiment=non-nullable",
+                "--enable-experiment=nonfunction-type-aliases",
+                "--enable-experiment=constructor-tearoffs"
+              ],
+        }
+    ]
+}
